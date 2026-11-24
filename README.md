@@ -6,9 +6,14 @@
     </td>
     <td style="vertical-align: top;">
    ${\textsf{\color{#bf3c2d}spam follow account}}$ <br>
-   ${\textsf{\color{#bf3c2d}block if unwanted !}}$ <br>
+   ${\textsf{\color{#c2452d}block if unwanted !}}$ <br>
      <br> <br> ${\textsf{\color{#bf3c2d}follow }}$ <a href="https://github.com/timesly" target="_blank">@timesly</a>
-   <br> ${\textsf{\color{#bf3c2d} and }}$ <a href="https://github.com/anthonytenna" target="_blank">@anthonytenna</a>
+   <br> ${\textsf{\color{#c2452d} and }}$ <a href="https://github.com/anthonytenna" target="_blank">@anthonytenna</a>
+      <br>
+      <br>
+      ${\textsf{\color{#bf3c2d} sign ata if im following someone problematic! }}$ <br>
+      ${\textsf{\color{#c2452d} i dont check who i follow ^^ }}$
+     <br> <a href="https://tv-world.atabook.org/" target="_blank">atabook</a>
          </td>
   </tr>
 </table>
