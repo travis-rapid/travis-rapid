@@ -12,7 +12,7 @@
       <br>
       <br>
       ${\textsf{\color{#bf3c2d} sign ata if im following someone problematic! }}$ <br>
-      ${\textsf{\color{#c2452d} i dont check who i follow ^^ }}$
+      ${\textsf{\color{#c2452d} i dont check who i follow ,,}}$
      <br> <a href="https://tv-world.atabook.org/" target="_blank">atabook</a>
          </td>
   </tr>
